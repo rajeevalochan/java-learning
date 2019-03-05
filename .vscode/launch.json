@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Overloading",
+            "request": "launch",
+            "mainClass": "Overloading"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Constructor",
+            "request": "launch",
+            "mainClass": "Constructor"
+        }
+    ]
+}
